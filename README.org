@@ -1,0 +1,3 @@
+* Plain Org bug and feature request tracker
+
+http://plainorg.com
