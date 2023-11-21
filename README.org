@@ -1,3 +1,7 @@
-* Plain Org bug and feature request tracker
+* Plain Org [[http://plainorg.com][plainorg.com]]
 
-http://plainorg.com
+Thank you for using Plain Org. Ran into a bug? Got feature requests? Please file them or comment on existing ones.
+
+** Filing bugs and feature requests
+
+Please file bugs or feature requests under GitHub [[https://github.com/plainorg/plainorg/issues][issues]], using the =bug= and =enhancement= flags.
